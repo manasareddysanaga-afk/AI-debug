@@ -8,7 +8,7 @@ Built using **FastAPI (Python backend)** and **React (frontend)**, this project 
 
 ## 🚀 Live Demo
 
-*(Add after deployment)*
+
 
 - 🌐 Frontend: https://your-app.vercel.app  
 - ⚙️ Backend API: https://your-api.onrender.com  
