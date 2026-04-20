@@ -1,5 +1,3 @@
-👇
-
 🧠 AI Bug Assistant (Full-Stack Project)
 
 A full-stack web application that acts as an AI-style debugging assistant, helping developers identify causes, fixes, and examples for common programming errors.
